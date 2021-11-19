@@ -6,7 +6,7 @@ foreach ($fi as $key => $value) {
 }
 return "";
 }*/
-
+//
 	require_once("functions/db.func.php");
 
 	try{
